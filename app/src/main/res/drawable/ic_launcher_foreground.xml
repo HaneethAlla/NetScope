@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Three ascending signal bars kept inside the adaptive-icon safe zone. -->
+    <path
+        android:fillColor="#33D17A"
+        android:pathData="M33,70h9v13h-9z" />
+    <path
+        android:fillColor="#33D17A"
+        android:pathData="M50,57h9v26h-9z" />
+    <path
+        android:fillColor="#33D17A"
+        android:pathData="M67,42h9v41h-9z" />
+</vector>
